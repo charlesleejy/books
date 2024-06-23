@@ -1,4 +1,4 @@
-## System Design Interview – An Insider's Guide: Volume 2 by Alex Xu and Sahn Lam:
+### System Design Interview – An Insider's Guide: Volume 2 by Alex Xu and Sahn Lam:
 
 1. **Chapter 1: Proximity Service**
 2. **Chapter 2: Nearby Friends**
