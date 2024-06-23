@@ -1,4 +1,6 @@
-Chapter 9 of "Designing Data-Intensive Applications" by Martin Kleppmann is titled "Consistency and Consensus." This chapter focuses on the fundamental concepts and algorithms that are crucial for achieving consistency and consensus in distributed systems. Here's a detailed summary of the key points covered in this chapter:
+### Detailed Summary of Chapter 9: Consistency and Consensus from "Designing Data-Intensive Applications"
+
+This chapter focuses on the fundamental concepts and algorithms that are crucial for achieving consistency and consensus in distributed systems. Here's a detailed summary of the key points covered in this chapter:
 
 ### **Key Topics and Concepts**
 
