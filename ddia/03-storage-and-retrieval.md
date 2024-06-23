@@ -1,4 +1,4 @@
-### Detailed Summary of Chapter 3: Storage and Retrieval
+### Detailed Summary of Chapter 3: Storage and Retrieval from "Designing Data-Intensive Applications"
 
 Chapter 3 of "Designing Data-Intensive Applications" by Martin Kleppmann explores the fundamental concepts and mechanisms behind storing and retrieving data in database systems. The chapter delves into the data structures and algorithms that underpin various storage engines, discussing their strengths, weaknesses, and appropriate use cases.
 

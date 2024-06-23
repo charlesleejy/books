@@ -1,4 +1,4 @@
-### Detailed Summary of Chapter 1: Reliable, Scalable, and Maintainable Applications
+### Detailed Summary of Chapter 1: Reliable, Scalable, and Maintainable Applications from "Designing Data-Intensive Applications"
 
 Chapter 1 of "Designing Data-Intensive Applications" by Martin Kleppmann introduces the fundamental principles necessary for building robust data systems. It focuses on three primary concerns: reliability, scalability, and maintainability, which are critical for creating data-intensive applications.
 

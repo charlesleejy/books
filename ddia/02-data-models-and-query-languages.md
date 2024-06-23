@@ -1,4 +1,4 @@
-### Detailed Summary of Chapter 2: Data Models and Query Languages
+### Detailed Summary of Chapter 2: Data Models and Query Languages from "Designing Data-Intensive Applications"
 
 Chapter 2 of "Designing Data-Intensive Applications" by Martin Kleppmann explores the foundational aspects of data modeling and query languages. The chapter highlights how different data models and query languages have evolved to address the needs of various types of applications and data structures. It delves into the strengths and weaknesses of each model and provides insights into their practical applications.
 
