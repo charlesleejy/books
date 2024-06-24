@@ -1,4 +1,5 @@
-### 2. Data Lifecycle Management
+### Chapter 2. Data Lifecycle Management
+**"Fundamentals of Data Engineering"**
 
 #### Overview
 Data Lifecycle Management (DLM) is the process of overseeing the flow of data throughout its entire lifecycle, from creation and initial storage to the time it becomes obsolete and is deleted. Effective DLM ensures data is properly managed, protected, and leveraged at each stage of its lifecycle.

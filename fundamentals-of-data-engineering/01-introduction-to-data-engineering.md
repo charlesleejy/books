@@ -1,4 +1,5 @@
-### 1. Introduction to Data Engineering
+### Chapter 1. Introduction to Data Engineering
+**"Fundamentals of Data Engineering"**
 
 #### Definition and Importance
 Data engineering is the backbone of the modern data-driven world, focusing on the development, construction, and maintenance of systems that allow for the collection, storage, and analysis of data at scale. The primary goal of data engineering is to create robust and scalable data pipelines that ensure data is clean, reliable, and ready for analysis. This discipline is fundamental for organizations looking to harness the power of their data for strategic decision-making, innovation, and competitive advantage.
