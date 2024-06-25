@@ -1,4 +1,4 @@
-### Chapter 4: Introduction to Data Warehousin
+### Chapter 4: Introduction to Data Warehousing
 **"Fundamentals of Data Engineering"**
 
 ### **Introduction to Data Warehousing**
