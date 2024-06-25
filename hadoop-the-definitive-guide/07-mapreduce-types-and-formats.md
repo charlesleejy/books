@@ -1,4 +1,4 @@
- ### Detailed Notes on Chapter 7: MapReduce Types and Formats
+### Detailed Notes on Chapter 7: MapReduce Types and Formats
 **"Hadoop: The Definitive Guide" by Tom White**
 
 #### **Overview**
