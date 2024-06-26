@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'fundamentals-of-data-engineering.md'
-book_name = 'fundamentals-of-data-engineering'
+output_file = 'hadoop-the-definitive-guide.md'
+book_name = 'hadoop-the-definitive-guide'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
