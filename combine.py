@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'hadoop-the-definitive-guide.md'
-book_name = 'hadoop-the-definitive-guide'
+output_file = 'effective-java.md'
+book_name = 'effective-java'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
