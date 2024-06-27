@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'effective-java.md'
-book_name = 'effective-java'
+output_file = 'sql-performance-explained.md'
+book_name = 'sql-performance-explained'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:

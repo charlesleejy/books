@@ -1,4 +1,4 @@
-## "SQL Performance Explained" by Markus Winand
+## SQL Performance Explained by Markus Winand
 
 1. **Anatomy of an Index**
    - Introduction to indexes
