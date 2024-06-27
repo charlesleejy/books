@@ -1,44 +1,24 @@
 import os
 
 chapters = [
-    "01-introduction-to-snowflake.md",
-    "02-getting-started-with-snowflake.md",
-    "03-architecting-snowflake-solutions.md",
-    "04-loading-and-unloading-data.md",
-    "05-querying-data.md",
-    "06-working-with-semi-structured-data.md",
-    "07-security-and-access-control.md",
-    "08-data-sharing.md",
-    "09-performance-optimization.md",
-    "10-data-governance.md",
-    "11-advanced-features.md",
-    "12-integrating-with-other-tools.md",
-    "13-best-practices.md",
-    "14-case-studies.md",
-    "15-future-directions.md",
-    "16-troubleshooting-and-support.md"
-]
-
-chapters = [
-    "01-what-is-software-architecture.md",
-    "02-architecture-evolution.md",
-    "03-decision-making.md",
-    "04-services.md",
-    "05-communication.md",
-    "06-data-management.md",
-    "07-design-for-performance-and-scalability.md",
-    "08-resilience-and-reliability.md",
-    "09-security.md",
-    "10-managing-complexity.md",
-    "11-architecture-evaluation.md",
-    "12-the-role-of-the-architect.md",
-    "13-microservices-and-architecture.md",
-    "14-architecture-in-the-cloud.md",
-    "15-conclusion.md"
+    "01-introduction-to-data-engineering.md",
+    "02-data-management-architectures-for-analytics.md",
+    "03-the-aws-data-engineer's-toolkit.md",
+    "04-data-cataloging-security-and-governance.md",
+    "05-architecting-data-engineering-pipelines.md",
+    "06-populating-data-marts-and-data-warehouses.md",
+    "07-ingesting-streaming-data.md",
+    "08-transforming-data-with-aws-glue-studio.md",
+    "09-triggering-lambda-functions-with-s3-events.md",
+    "10-running-complex-sql-queries-on-data-lake-data.md",
+    "11-visualizing-data-with-amazon-quicksight.md",
+    "12-extracting-sentiment-data-with-amazon-comprehend.md",
+    "13-building-transactional-data-lakes.md",
+    "14-implementing-a-data-mesh-approach.md"
 ]
 
 # Directory to create the files in
-directory = "software-architecture-the-hard-parts"
+directory = "data-engineering-on-aws"
 
 # Create the directory if it doesn't exist
 if not os.path.exists(directory):
