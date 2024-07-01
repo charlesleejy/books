@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 15: Advanced Data Engineering with Snowflake
+## Detailed Notes on Chapter 15: Advanced Data Engineering with Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

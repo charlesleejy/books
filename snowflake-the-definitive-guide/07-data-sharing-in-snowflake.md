@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 7: Data Sharing in Snowflake
+## Detailed Notes on Chapter 7: Data Sharing in Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

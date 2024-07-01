@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 16: Emerging Trends and Future Directions
+## Detailed Notes on Chapter 16: Emerging Trends and Future Directions
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

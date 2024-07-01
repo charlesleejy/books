@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 2: Snowflake Architecture
+## Detailed Notes on Chapter 2: Snowflake Architecture
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 11: Advanced Data Sharing
+## Detailed Notes on Chapter 11: Advanced Data Sharing
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

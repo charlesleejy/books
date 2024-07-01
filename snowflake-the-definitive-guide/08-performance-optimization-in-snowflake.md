@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 8: Performance Optimization in Snowflake
+## Detailed Notes on Chapter 8: Performance Optimization in Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

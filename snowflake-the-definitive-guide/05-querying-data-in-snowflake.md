@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 5: Querying Data in Snowflake
+## Detailed Notes on Chapter 5: Querying Data in Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

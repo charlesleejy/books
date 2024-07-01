@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 13: Building Data Applications with Snowflake
+## Detailed Notes on Chapter 13: Building Data Applications with Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

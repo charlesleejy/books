@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 1: Introduction to Snowflake
+## Detailed Notes on Chapter 1: Introduction to Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

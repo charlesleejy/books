@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'sql-performance-explained.md'
-book_name = 'sql-performance-explained'
+output_file = 'head-first-java.md'
+book_name = 'head-first-java'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:

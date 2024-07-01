@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 14: Using Snowflake with BI and Analytics Tools
+## Detailed Notes on Chapter 14: Using Snowflake with BI and Analytics Tools
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

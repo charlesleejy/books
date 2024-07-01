@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 9: Managing Snowflake
+## Detailed Notes on Chapter 9: Managing Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 12: Automating Snowflake
+## Detailed Notes on Chapter 12: Automating Snowflake
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

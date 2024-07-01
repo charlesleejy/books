@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 10: Data Governance and Compliance
+## Detailed Notes on Chapter 10: Data Governance and Compliance
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

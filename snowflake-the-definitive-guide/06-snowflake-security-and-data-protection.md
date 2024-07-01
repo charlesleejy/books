@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 6: Snowflake Security and Data Protection
+## Detailed Notes on Chapter 6: Snowflake Security and Data Protection
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**

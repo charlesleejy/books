@@ -1,4 +1,4 @@
-### Detailed Notes on Chapter 4: Snowflake Storage and Data Loading
+## Detailed Notes on Chapter 4: Snowflake Storage and Data Loading
 **"Snowflake: The Definitive Guide" by Joyce Kay Avila**
 
 #### **Overview**
