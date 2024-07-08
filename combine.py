@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'database-internals.md'
-book_name = 'database-internals'
+output_file = 'data-pipeline-pocket-reference.md'
+book_name = 'data-pipeline-pocket-reference'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
