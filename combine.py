@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'data-pipeline-pocket-reference.md'
-book_name = 'data-pipeline-pocket-reference'
+output_file = 'the-data-warehouse-toolkit.md'
+book_name = 'the-data-warehouse-toolkit'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
