@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'the-data-warehouse-toolkit.md'
-book_name = 'the-data-warehouse-toolkit'
+output_file = 'big-data.md'
+book_name = 'big-data'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
