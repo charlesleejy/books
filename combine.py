@@ -1,8 +1,8 @@
 import os
 
 # Specify the output file
-output_file = 'big-data.md'
-book_name = 'big-data'
+output_file = 'aws-sa-associate-exam.md'
+book_name = 'aws-sa-associate-exam'
 
 # Open the output file in write mode
 with open(output_file, 'w') as outfile:
