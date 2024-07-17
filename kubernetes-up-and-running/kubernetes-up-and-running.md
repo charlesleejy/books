@@ -1,4 +1,4 @@
-## **"Kubernetes: Up & Running"** by Kelsey Hightower, Brendan Burns, and Joe Beda:
+## Kubernetes: Up & Running by Kelsey Hightower, Brendan Burns, and Joe Beda
 
 ### Chapter 1: Introduction
 - The Kubernetes Story
