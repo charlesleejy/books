@@ -1,2 +1,0 @@
-# books
-Book summaries
