@@ -1,4 +1,4 @@
-### Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
+## Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
 
 1. **Introduction**
    - Overview of Streaming Systems
